@@ -10,8 +10,11 @@ Sanzhar Yeleuov (@yelsanya) </p>
 <p style="text-align: right">
 Nazarbek Altybay (@na2a)</p>
 
+## Demo
 
-##	Plan:
+https://yelsanya.github.io/IVPROJECT.html
+
+##	Plan
 
 
 
